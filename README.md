@@ -27,18 +27,26 @@
 
 ## 2. Open Unity Project
 
-* On the left-hand menu, select `Projects` then click on the blue `Grey` button on the right, and choose the file.
+* On the left-hand menu, select `Projects` then click the arrow next to the grey `Open` button on the right, and choose `Add project from disk`and cho the file.
 
 [![.img/step2.png](.img/step2.png)](#nolink)
 
 
-* After your project is created, you will be presented with the working environment
+* After your project is opened, you will be presented with the working environment
+
+[![.img/step2b.png](.img/step2b.png)](#nolink)
 
 **We must configure Unity use VS Studio as the external code editor**
 
 * Go to menu item `Edit` → `Preferences...` → `External Tools`
 * Change `External Script Editor` to option VS Studio.
 
-[![.img/step2b.png](.img/step2b.png)](#nolink)
+[![.img/step2c.png](.img/step2c.png)](#nolink)
 
+To run the project , at the working environment, chose the play icon at the top of the screen 
 
+[![.img/step2d.png](.img/step2d.png)](#nolink)
+
+To check and work with the code , double click to any script file(The script file will always stay at the Script folder) 
+
+[![.img/step2e.png](.img/step2e.png)](#nolink)
